@@ -1,0 +1,53 @@
+site_name: "Empresa Nueva"
+site_url: "https://neestoralvz.github.io/empresa_nueva"
+
+nav:
+  - Inicio: index.md
+  - Misión y Visión: mision_vision.md
+  - Elección de Nombre: eleccion_nombre.md
+  - Plan:
+    - Plan Inicial: plan/plan_inicial.md
+    - Iteración 1: plan/iteracion_1.md
+    - Iteración 2: plan/iteracion_2.md
+    - Iteración 3: plan/iteracion_3.md
+    - Iteración 4: plan/iteracion_4.md
+
+theme:
+  name: "material"
+  language: "es"
+  palette:
+    - scheme: slate         # Modo oscuro por defecto
+      primary: "indigo"
+      accent: "deep purple"
+      toggle:
+        icon: material/brightness-4
+        name: "Modo claro"
+    - scheme: default       # Modo claro alternativo
+      primary: "indigo"
+      accent: "deep purple"
+      toggle:
+        icon: material/brightness-7
+        name: "Modo oscuro"
+
+  features:
+    - navigation.top
+    - navigation.tabs
+
+markdown_extensions:
+  - toc:
+      permalink: True
+  - admonition
+  - footnotes
+  - tables
+  - def_list
+
+plugins:
+  - search:
+      lang: es
+
+# Directorio donde se encuentran los .md
+docs_dir: "docs"
+
+# Directorio donde se generará el sitio (por defecto "site")
+# site_dir: "site"
+
