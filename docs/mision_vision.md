@@ -2,109 +2,128 @@
 
 ## 1. Misión
 
-Brindar soluciones integrales y de alta calidad en la gestión y tratamiento de agua potable, a través de un portafolio que incluya productos químicos, equipos especializados y servicios técnicos, garantizando la eficiencia, seguridad y sustentabilidad en cada proyecto.
+Brindar soluciones integrales y de alta calidad en la gestión y tratamiento de agua potable, a través de un portafolio que incluya productos químicos, equipos especializados y servicios técnicos. Con esto, se garantiza la eficiencia, seguridad y sustentabilidad en cada proyecto.
 
-### Aspectos clave:
-- **Suministro de químicos**: Adaptados a diferentes calidades de agua y alineados con las normativas aplicables.  
-- **Venta e instalación de equipos**: Bombas, dosificadores y demás sistemas hidráulicos esenciales para el proceso de potabilización.  
-- **Asesoría técnica especializada**: Capacitación a operadores y soporte continuo para un uso óptimo de productos y equipos.  
-- **Servicio postventa y mantenimiento**: Incluyendo prevención de fallas, correcciones oportunas y actualizaciones tecnológicas.
+### Aspectos clave
+
+- **Suministro de químicos**: Adaptados a diferentes calidades de agua y alineados con normativas vigentes.
+- **Venta e instalación de equipos**: Bombas, dosificadores y demás sistemas hidráulicos esenciales para la potabilización.
+- **Asesoría técnica especializada**: Capacitación a operadores y soporte continuo para un uso óptimo de productos y equipos.
+- **Servicio postventa y mantenimiento**: Prevención de fallas, correcciones oportunas y actualizaciones tecnológicas.
 
 ---
 
 ## 2. Visión
 
-Convertirnos en la empresa líder en soluciones hídricas integrales a nivel regional, reconocida por su innovación, compromiso con la sustentabilidad y excelencia en el servicio al cliente, contribuyendo de esta manera al bienestar de las comunidades y al desarrollo de la infraestructura para el agua potable.
+Convertirnos en la empresa líder en soluciones hídricas integrales a nivel regional, reconocida por su innovación, compromiso con la sustentabilidad y excelencia en el servicio al cliente. Aspiramos a contribuir al bienestar de las comunidades y al desarrollo de la infraestructura para el agua potable.
 
-### Metas a largo plazo:
-- **Reconocimiento del mercado**: Ser la opción preferente para organismos gubernamentales, empresas e industrias.  
-- **Expansión geográfica**: Cubrir diversas regiones con necesidades de abastecimiento y tratamiento de agua, consolidando alianzas estratégicas.  
-- **Fortalecimiento tecnológico**: Invertir en investigación y desarrollo para incorporar tecnología de punta en equipos, procesos y soluciones.  
-- **Compromiso social y ambiental**: Participar activamente en iniciativas de responsabilidad social y de protección de los recursos hídricos.
+### Metas a largo plazo
+
+- **Reconocimiento del mercado**: Ser la opción preferente para organismos gubernamentales, empresas e industrias.
+- **Expansión geográfica**: Cubrir diversas regiones con necesidades de abastecimiento y tratamiento de agua, consolidando alianzas estratégicas.
+- **Fortalecimiento tecnológico**: Invertir en investigación y desarrollo para incorporar tecnología de punta en equipos, procesos y soluciones.
+- **Compromiso social y ambiental**: Participar activamente en iniciativas de responsabilidad social y protección de los recursos hídricos.
 
 ---
 
 ## 3. Valores Fundamentales
 
-1. **Sustentabilidad**  
-   - Uso responsable de los recursos hídricos y químicos respetuosos con el medio ambiente.  
-   - Fomento de prácticas que minimicen el impacto ambiental, promoviendo el ahorro de agua y la reducción de residuos.
+### Sustentabilidad
 
-2. **Innovación**  
-   - Búsqueda constante de nuevas tecnologías y métodos que mejoren la calidad de los servicios y reduzcan costos operativos.  
-   - Actualización permanente de conocimientos y técnicas para mantenerse a la vanguardia del sector.
+- Uso responsable de los recursos hídricos y químicos respetuosos con el medio ambiente.
+- Promoción de prácticas que minimicen el impacto ambiental y favorezcan el ahorro de agua y la reducción de residuos.
 
-3. **Transparencia y Ética**  
-   - Relación honesta con clientes, proveedores y colaboradores, basada en una comunicación abierta y la integridad en cada transacción.  
-   - Cumplimiento de las regulaciones y normas tanto nacionales como internacionales.
+### Innovación
 
-4. **Calidad y Confiabilidad**  
-   - Productos químicos y equipos que cumplan con las especificaciones técnicas y estándares de calidad más exigentes.  
-   - Procedimientos de mantenimiento y asesoría que garanticen la continuidad operativa de los sistemas de agua.
+- Búsqueda constante de nuevas tecnologías y métodos que mejoren la calidad de los servicios y reduzcan costos operativos.
+- Actualización permanente de conocimientos y técnicas para mantenerse a la vanguardia del sector.
 
-5. **Orientación al Cliente**  
-   - Soluciones a la medida, adaptadas a los requerimientos y condiciones de cada proyecto.  
-   - Comunicación y seguimiento cercano para garantizar la satisfacción a largo plazo y la fidelidad de los clientes.
+### Transparencia y Ética
+
+- Comunicación abierta y relaciones honestas con clientes, proveedores y colaboradores, cimentadas en la integridad.
+- Cumplimiento de las regulaciones y normas, tanto nacionales como internacionales.
+
+### Calidad y Confiabilidad
+
+- Productos químicos y equipos que cumplan con especificaciones técnicas y estándares de calidad exigentes.
+- Procedimientos de mantenimiento y asesoría orientados a garantizar la continuidad operativa de los sistemas de agua.
+
+### Orientación al Cliente
+
+- Soluciones diseñadas a la medida, adaptadas a las condiciones y requerimientos de cada proyecto.
+- Comunicación cercana y seguimiento constante para asegurar la satisfacción y la fidelidad de los clientes a largo plazo.
 
 ---
 
 ## 4. Diferenciadores Clave
 
-- **Servicio Integral**: Desde la asesoría preliminar hasta la instalación de equipos, capacitación y mantenimiento, facilitando un enfoque “todo en uno”.  
-- **Especialización Técnica**: Conocimiento profundo de los procesos de potabilización, tratamiento y manejo de agua en diferentes entornos.  
-- **Alianzas Estratégicas**: Convenios con fabricantes de equipos, laboratorios y proveedores, asegurando calidad, disponibilidad y precios competitivos.  
-- **Atención Personalizada**: Diseño de soluciones específicas para cada cliente, considerando la calidad del agua, normativas y necesidades operativas.  
-- **Compromiso con la Mejora Continua**: Revisión periódica de procesos, incorporación de nuevas tecnologías y formación constante del personal.
+- **Servicio Integral**: Desde la asesoría preliminar hasta la instalación de equipos, capacitación y mantenimiento, para un enfoque “todo en uno”.
+- **Especialización Técnica**: Conocimiento profundo de los procesos de potabilización, tratamiento y manejo del agua en entornos diversos.
+- **Alianzas Estratégicas**: Acuerdos con fabricantes de equipos, laboratorios y proveedores, garantizando calidad, disponibilidad y precios competitivos.
+- **Atención Personalizada**: Diseño de soluciones específicas considerando la calidad del agua, las normativas y las necesidades operativas de cada cliente.
+- **Compromiso con la Mejora Continua**: Revisión periódica de procesos, incorporación de nuevas tecnologías y capacitación constante del personal.
 
 ---
 
 ## 5. Público Objetivo
 
-1. **Instituciones Públicas**  
-   - Organismos responsables de la gestión y suministro de agua potable a nivel municipal, estatal o nacional.  
-   - Dependencias que requieren actualización, mantenimiento y expansión de la infraestructura hídrica.
+### Instituciones Públicas
 
-2. **Empresas Privadas**  
-   - Industrias que necesiten asegurar un suministro confiable y de calidad en su proceso productivo.  
-   - Hoteles y complejos turísticos, sensibles a la calidad del agua y la satisfacción de sus clientes.
+- Organismos responsables de la gestión y suministro de agua potable a nivel municipal, estatal o nacional.
+- Dependencias que requieren modernizar, mantener o ampliar su infraestructura hídrica.
 
-3. **Desarrollos Inmobiliarios**  
-   - Constructoras que buscan implementar sistemas de agua eficientes y seguros en proyectos residenciales, comerciales o industriales.  
-   - Proyectos que requieran asesoría y abastecimiento de equipos de bombeo, dosificación y sistemas de purificación.
+### Empresas Privadas
 
-4. **Sectores Rurales y Agrícolas**  
-   - Comunidades y cooperativas interesadas en contar con soluciones accesibles para el suministro de agua potable y el riego seguro.  
-   - Programas de desarrollo local enfocados en infraestructura hídrica básica.
+- Industrias que exigen un suministro confiable y de calidad para su proceso productivo.
+- Hoteles y complejos turísticos, donde la calidad del agua es esencial para la satisfacción del cliente.
 
-5. **Consultorías y Laboratorios**  
-   - Empresas de ingeniería, laboratorios de análisis de agua y consultorías ambientales que requieran productos químicos y soporte técnico para su labor.
+### Desarrollos Inmobiliarios
+
+- Constructoras interesadas en sistemas de agua eficientes y seguros para proyectos residenciales, comerciales o industriales.
+- Proyectos que precisen asesoría y equipamiento de bombeo, dosificación y purificación.
+
+### Sectores Rurales y Agrícolas
+
+- Comunidades y cooperativas que requieran soluciones accesibles para el suministro de agua potable y el riego seguro.
+- Programas de desarrollo local enfocados en infraestructura básica de agua.
+
+### Consultorías y Laboratorios
+
+- Empresas de ingeniería, laboratorios de análisis de agua y consultorías ambientales que requieran insumos químicos y soporte técnico para su labor.
 
 ---
 
 ## 6. Tendencias del Mercado
 
-1. **Mayor Regulación y Normativas**  
-   - Creciente atención en estándares de calidad del agua, impulsando la demanda de productos y sistemas de tratamiento más efectivos.  
-   - Vigilancia reforzada por parte de autoridades, lo que exige transparencia y cumplimiento de protocolos de calidad.
+### Mayor Regulación y Normativas
 
-2. **Sostenibilidad y Responsabilidad Ambiental**  
-   - Preferencia por proveedores que ofrezcan soluciones ecológicamente responsables, con baja huella de carbono y que promuevan el uso eficiente de los recursos.  
-   - Fomento de políticas de “cero vertidos” y valorización de residuos.
+- Creciente atención en los estándares de calidad del agua, incentivando la demanda de soluciones de tratamiento más eficaces.
+- Mayor vigilancia por parte de las autoridades, lo que exige transparencia y cumplimiento de protocolos.
 
-3. **Transformación Digital y Automatización**  
-   - Adopción de tecnología para el control a distancia y en tiempo real de bombas, dosificadores y equipos, permitiendo optimizar el uso de químicos y energía.  
-   - Creciente relevancia de la Inteligencia Artificial y el Internet de las Cosas (IoT) en la gestión del agua.
+### Sostenibilidad y Responsabilidad Ambiental
 
-4. **Crecimiento de Alianzas Público-Privadas**  
-   - Búsqueda de acuerdos que permitan modernizar la infraestructura de agua mediante la participación conjunta de gobiernos y empresas.  
-   - Oportunidades de licitaciones y proyectos a gran escala para renovar redes de distribución o plantas de potabilización.
+- Preferencia por proveedores con soluciones ecológicamente responsables y baja huella de carbono.
+- Políticas de “cero vertidos” y valorización de residuos cada vez más frecuentes.
 
-5. **Capacitación y Servicios Especializados**  
-   - Demanda de formación técnica que asegure la correcta operación de los equipos y el uso adecuado de químicos.  
-   - Se valora la asistencia continua y el mantenimiento preventivo para evitar paros en el suministro de agua.
+### Transformación Digital y Automatización
+
+- Uso de tecnología para el control remoto y en tiempo real de bombas, dosificadores y otros equipos, optimizando recursos.
+- Mayor relevancia de la Inteligencia Artificial y el IoT en la gestión del agua.
+
+### Alianzas Público-Privadas
+
+- Búsqueda de convenios para modernizar la infraestructura de agua, promoviendo la participación conjunta de gobiernos y empresas.
+- Oportunidades de licitaciones y grandes proyectos de renovación de redes o plantas de potabilización.
+
+### Capacitación y Servicios Especializados
+
+- Creciente demanda de formación técnica para garantizar la correcta operación de equipos y el uso óptimo de químicos.
+- Se valora la asistencia continua y el mantenimiento preventivo para evitar interrupciones en el suministro de agua.
 
 ---
 
 ## Conclusión
 
-Con estos elementos —misión, visión, valores, diferenciadores, público objetivo y tendencias de mercado— se establece una base sólida para una empresa orientada a ofrecer soluciones de alta calidad en el ámbito del agua potable. Al alinear la experiencia técnica y la innovación con un firme compromiso ético y ambiental, se promueve la creación de relaciones de largo plazo con clientes y colaboradores. Esta estrategia integral no solo responde a las exigencias actuales del mercado, sino que también se anticipa a futuras necesidades de modernización, sustentabilidad y excelencia en el suministro de agua.
+Los pilares de la misión, visión, valores, diferenciadores y público objetivo establecen una base sólida para una empresa enfocada en brindar soluciones de alta calidad en el ámbito del agua potable. Al equilibrar la experiencia técnica y la innovación con un firme compromiso ético y ambiental, se fomenta la creación de relaciones de largo plazo con clientes y colaboradores.
+
+Esta estrategia no sólo responde a los requerimientos actuales del mercado, sino que también **se anticipa a futuras demandas** de modernización, sostenibilidad y excelencia en la provisión de agua.
