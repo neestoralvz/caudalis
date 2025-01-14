@@ -1,19 +1,16 @@
 site_name: "Caudalis"
-site_url: "https://neestoralvz.github.io/caudalis"  # Ajusta si cambias el nombre del repo o usas otra URL
+site_url: "https://neestoralvz.github.io/caudalis"   # Ajusta si cambias el nombre del repo o deseas otra URL
+
 nav:
   - Inicio: index.md
   - Misión y Visión: mision_vision.md
   - Elección de Nombre: eleccion_nombre.md
-  - Plan:
-      # Ajusta según los archivos que tengas en docs/plan
-      # - Iteración 1: plan/iteracion_1.md
-      # - Iteración 2: plan/iteracion_2.md
-      # - etc.
+
 theme:
   name: "material"
   language: "es"
   palette:
-    - scheme: slate         # Modo oscuro por defecto
+    - scheme: slate         # Modo oscuro (por defecto)
       primary: "indigo"
       accent: "deep purple"
       toggle:
@@ -25,9 +22,17 @@ theme:
       toggle:
         icon: material/brightness-7
         name: "Modo oscuro"
+
   features:
     - navigation.top
     - navigation.tabs
+
+# Directorio con los archivos de la documentación (.md)
+docs_dir: "docs"
+
+# Directorio donde se generará el sitio (por defecto "site")
+# site_dir: "site"
+
 markdown_extensions:
   - toc:
       permalink: True
@@ -35,7 +40,7 @@ markdown_extensions:
   - footnotes
   - tables
   - def_list
+
 plugins:
   - search:
       lang: es
-docs_dir: "docs"
