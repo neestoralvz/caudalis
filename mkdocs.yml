@@ -1,46 +1,47 @@
 site_name: "Caudalis"
 site_url: "https://neestoralvz.github.io/caudalis"   # Ajusta si cambias el nombre del repo o deseas otra URL
-
 nav:
   - Inicio: index.md
   - Misión y Visión: mision_vision.md
   - Elección de Nombre: eleccion_nombre.md
+  - Plan:
+      - Plan Inicial: plan/plan_inicial.md
+      - Iteración 1: plan/iteracion_1.md
+      - Iteración 2: plan/iteracion_2.md
+      - Iteración 3: plan/iteracion_3.md
+      - Iteración 4: plan/iteracion_4.md
 
 theme:
-  name: "material"
+  name: material
   language: "es"
   palette:
-    - scheme: slate         # Modo oscuro (por defecto)
+    - scheme: slate      # Modo oscuro por defecto
       primary: "indigo"
       accent: "deep purple"
       toggle:
         icon: material/brightness-4
-        name: "Modo claro"
-    - scheme: default       # Modo claro
+        name: "Cambiar a modo claro"
+    - scheme: default    # Modo claro alternativo
       primary: "indigo"
       accent: "deep purple"
       toggle:
         icon: material/brightness-7
-        name: "Modo oscuro"
-
+        name: "Cambiar a modo oscuro"
   features:
-    - navigation.top
-    - navigation.tabs
-
-# Directorio con los archivos de la documentación (.md)
-docs_dir: "docs"
-
-# Directorio donde se generará el sitio (por defecto "site")
-# site_dir: "site"
+    - navigation.top     # Navegación en la parte superior
+    - navigation.tabs    # Navegación mediante pestañas
 
 markdown_extensions:
   - toc:
-      permalink: True
-  - admonition
-  - footnotes
-  - tables
-  - def_list
+      permalink: True        # Enlaces ancla en cada título
+  - admonition               # Bloques de aviso / info
+  - footnotes                # Notas al pie
+  - tables                   # Soporte extendido de tablas
+  - def_list                 # Listas de definiciones
 
 plugins:
   - search:
-      lang: es
+      lang: es               # Buscador interno en español
+
+docs_dir: docs              # Carpeta donde se ubican los archivos .md
+# site_dir: site            # (opcional) Carpeta de salida del sitio (por defecto "site")
