@@ -1,3 +1,5 @@
+# Plan Inicial: Creación de Marca
+
 A la hora de crear el nombre de una empresa enfocada en soluciones integrales para sistemas de agua potable, es importante seguir un proceso ordenado que te permita alinear los objetivos de la marca con las necesidades del mercado y los valores de la organización. A continuación, te propongo un esquema de trabajo inicial que puede servirte como guía:
 
 ---

@@ -1,3 +1,5 @@
+# Iteración 2: Construcción de Marca y Lanzamiento
+
 A continuación, se presenta la **versión actualizada del esquema de trabajo**, en la que se **eliminan los pasos correspondientes a la generación, validación y elección del nombre** (puntos 3, 4 y 5), dado que dichas etapas han sido completadas. El foco ahora se traslada a la **construcción de la marca**, la **definición del plan de comunicación y lanzamiento** y la **posterior revisión y ajustes**.
 
 ---
@@ -14,6 +16,7 @@ A continuación, se presenta la **versión actualizada del esquema de trabajo**,
    - Crea una frase breve que comunique los beneficios o diferenciadores de la empresa (por ejemplo: “Innovando cada gota”, “Sustentabilidad en cada solución”).
 
 3. **Narrativa de marca**
+
    - Redacta un **mensaje central** que explique quiénes son, qué hacen y por qué son la opción más confiable.
    - Destaca la **propuesta de valor** y cómo las soluciones ofrecidas contribuyen a un suministro de agua seguro y eficiente.
 
@@ -32,6 +35,7 @@ A continuación, se presenta la **versión actualizada del esquema de trabajo**,
    - Prepara **materiales informativos** (brochures, presentaciones, contenido web) con la nueva imagen y mensajes clave.
 
 3. **Monitoreo de la percepción**
+
    - Mide la **recepción de la marca** en redes sociales, encuestas y entrevistas a clientes.
    - Ajusta el tono de la comunicación o refuerza mensajes específicos si se detectan confusiones o dudas sobre el alcance de los servicios.
 
@@ -45,6 +49,7 @@ A continuación, se presenta la **versión actualizada del esquema de trabajo**,
    - Mantén una **actualización constante** de la identidad y el discurso para adaptarse a tendencias y cambios en el mercado.
 
 2. **Evolución de marca o submarcas**
+
    - A medida que la empresa se expanda (por ejemplo, hacia el tratamiento de aguas residuales, certificaciones o consultoría especializada), considera la creación de **submarcas** o extensiones de marca.
    - Asegura la coherencia visual y conceptual en todas las líneas de negocio, manteniendo los valores fundamentales de la empresa.
 

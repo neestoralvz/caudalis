@@ -1,3 +1,5 @@
+# Esquema de trabajo para la creación del nombre de una empresa de soluciones integrales en sistemas de agua potable
+
 A continuación, se presenta una versión iterada del **esquema de trabajo** para crear el nombre de una empresa dedicada a ofrecer soluciones integrales en sistemas de agua potable. Se han **eliminado los pasos correspondientes a la definición de la esencia y la propuesta de valor (Sección 1) y el estudio del público objetivo y el mercado (Sección 2)**, puesto que esos puntos ya han sido completados con la información actualizada. El enfoque ahora se centra en la generación, validación y elección del nombre, así como en la creación de la identidad y el plan de comunicación.
 
 ---

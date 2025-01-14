@@ -14,13 +14,13 @@ Proveer una **referencia clara** que unifique la imagen de Caudalis, destacando 
 
 ### Colores Principales
 
-**Color Primario: Azul Profundo**
+### Color Primario: Azul Profundo
 
 - **HEX**: `#0D47A1`
 - **RGB**: `13, 71, 161`
 - **Uso**: Elementos principales (encabezados, logotipos, íconos destacados). Conecta con el recurso hídrico de forma clara, proyectando experiencia y confianza.
 
-**Color Secundario: Teal Oscuro**
+### Color Secundario: Teal Oscuro
 
 - **HEX**: `#00897B`
 - **RGB**: `0, 137, 123`
@@ -28,7 +28,7 @@ Proveer una **referencia clara** que unifique la imagen de Caudalis, destacando 
 
 ### Color de Acento
 
-**Ámbar**
+### Ámbar
 
 - **HEX**: `#FFD600`
 - **RGB**: `255, 214, 0`
@@ -50,13 +50,13 @@ Estos tonos garantizan equilibrio, claridad y versatilidad, sirviendo para fondo
 
 Para lograr legibilidad y uniformidad, se propone una **combinación de dos familias** que acentúan la solidez técnica y la modernidad de Caudalis.
 
-#### Montserrat (Encabezados)
+### Montserrat (Encabezados)
 
 - Apariencia moderna y geométrica.
 - Uso recomendado en títulos, subtítulos y etiquetas de navegación.
 - Refuerza el aspecto tecnológico e ingenieril de la marca.
 
-#### Open Sans (Cuerpo de Texto)
+### Open Sans (Cuerpo de Texto)
 
 - Clara y legible en diferentes tamaños de pantalla.
 - Ideal para párrafos, textos explicativos y extensos.
@@ -71,7 +71,7 @@ Para lograr legibilidad y uniformidad, se propone una **combinación de dos fami
 
 ## Recomendaciones de Uso
 
-#### Jerarquía Visual
+### Jerarquía Visual
 
 - Emplear Montserrat en encabezados (`h1`, `h2`, `h3`) con tamaños escalonados para transmitir la importancia de la información.
 - Utilizar Open Sans para el texto base (16px/18px en web), garantizando un alto nivel de legibilidad.
