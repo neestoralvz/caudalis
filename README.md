@@ -1,44 +1,36 @@
-# Empresa Nueva
+# Caudalis
 
-Bienvenido al repositorio de **Empresa Nueva**, donde se gestiona toda la documentación y planes de desarrollo de nuestros proyectos relacionados con la mejora y optimización de sistemas de agua potable.
+Este repositorio alberga la documentación de **Caudalis**, empresa enfocada en soluciones integrales para agua potable, tratamiento hídrico y consultoría en el sector.
 
 ## Estructura del Repositorio
 
 ```bash
 empresa_nueva/
-├─ docs/
-│  ├─ index.md
-│  ├─ eleccion_nombre.md
-│  ├─ mision_vision.md
-│  └─ plan/
-├─ mkdocs.yml
-└─ venv/
+├── docs/
+│   ├── index.md            # Página principal de la documentación
+│   ├── eleccion_nombre.md  # Histórico del proceso de naming
+│   ├── mision_vision.md    # Fundamentos e ideales
+│   └── plan/               # Planes, iteraciones y fases
+├── mkdocs.yml              # Configuración de MkDocs
+└── venv/                   # Entorno virtual (opcional)
 ```
 
-- **docs/**: Contiene todos los archivos de documentación en formato Markdown (`.md`), incluyendo el `index.md` (página principal).  
-- **mkdocs.yml**: Archivo de configuración para MkDocs con tema Material.  
-- **venv/**: Entorno virtual de Python para manejar dependencias.
+## Cómo ver la Documentación
 
-## Cómo usar esta documentación
-
-1. **Instala las dependencias** (MkDocs y MkDocs Material):
+1. **Instala** las dependencias necesarias (MkDocs y Material):
    ```bash
    pip install mkdocs mkdocs-material
    ```
-
-2. **Inicia el servidor local** de MkDocs:
+2. **Levanta** el servidor local:
    ```bash
    mkdocs serve
    ```
-   Luego, abre el navegador en [http://127.0.0.1:8000](http://127.0.0.1:8000) para explorar la documentación.
+   Luego, abre [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
-3. **Despliega la documentación** (opcional):
+3. **Despliega** en GitHub Pages (opcional):
    ```bash
-   mkdocs build
+   mkdocs gh-deploy
    ```
-   Esto generará una carpeta `site/` con los archivos HTML listos para ser publicados en el servidor de tu preferencia.
+   Así obtendrás un sitio web estático en `https://<TU_USUARIO>.github.io/empresa_nueva/` (o la URL que corresponda).
 
-## Contacto
-
-Si deseas aportar sugerencias, mejoras o cualquier duda, puedes [crear un *issue*](#) en este repositorio.  
-¡Gracias por visitar nuestro proyecto y contribuir a su crecimiento!
+¡Gracias por tu interés en **Caudalis**! Para más información, revisa los archivos Markdown dentro de la carpeta `docs/`.
