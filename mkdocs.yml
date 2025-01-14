@@ -3,30 +3,38 @@ site_url: "https://neestoralvz.github.io/caudalis"
 
 nav:
   - Inicio: index.md
-  - Misión y Visión: mision_vision.md
-  - Elección de Nombre: eleccion_nombre.md
-  - Guía de Estilo: estilo.md
-  - Plan:
-      - Plan Inicial: plan/plan_inicial.md
-      - Iteración 1: plan/iteracion_1.md
-      - Iteración 2: plan/iteracion_2.md
-      - Iteración 3: plan/iteracion_3.md
-      - Iteración 4: plan/iteracion_4.md
+  - Acerca de:
+      - Misión y Visión: about/mission.md
+      - Identidad: about/identity.md
+      - Marca:
+          - Nombre: about/branding/name.md
+          - Estilo: about/branding/style.md
+  - Desarrollo:
+      - Navegación:
+          - Plan de Navegación: development/navigation/plan_navegacion.md
+          - Iteración 1: development/navigation/iteracion_1.md
+          - Iteración 2: development/navigation/iteracion_2.md
+      - Marca:
+          - Plan Inicial: development/branding/plan_inicial.md
+          - Iteración 1: development/branding/iteracion_1.md
+          - Iteración 2: development/branding/iteracion_2.md
+          - Iteración 3: development/branding/iteracion_3.md
+          - Iteración 4: development/branding/iteracion_4.md
 
 theme:
   name: material
   language: "es"
   palette:
-    - scheme: slate            # Modo oscuro por defecto
-      primary: "#0D47A1"       # Azul Profundo
-      accent: "#FFD600"        # Ámbar (CTA / acentos)
+    - scheme: slate
+      primary: "#0D47A1"  # Azul Profundo
+      accent: "#FFD600"  # Ámbar (CTA / acentos)
       toggle:
         icon: material/brightness-4
         name: "Cambiar a modo claro"
 
-    - scheme: default          # Modo claro alternativo
-      primary: "#0D47A1"       # Azul Profundo
-      accent: "#FFD600"        # Ámbar (CTA / acentos)
+    - scheme: default
+      primary: "#0D47A1"  # Azul Profundo
+      accent: "#FFD600"  # Ámbar (CTA / acentos)
       toggle:
         icon: material/brightness-7
         name: "Cambiar a modo oscuro"
