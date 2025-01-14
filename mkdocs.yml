@@ -1,9 +1,11 @@
 site_name: "Caudalis"
-site_url: "https://neestoralvz.github.io/caudalis"   # Ajusta si cambias el nombre del repo o deseas otra URL
+site_url: "https://neestoralvz.github.io/caudalis"
+
 nav:
   - Inicio: index.md
   - Misión y Visión: mision_vision.md
   - Elección de Nombre: eleccion_nombre.md
+  - Guía de Estilo: estilo.md
   - Plan:
       - Plan Inicial: plan/plan_inicial.md
       - Iteración 1: plan/iteracion_1.md
@@ -15,33 +17,35 @@ theme:
   name: material
   language: "es"
   palette:
-    - scheme: slate      # Modo oscuro por defecto
-      primary: "indigo"
-      accent: "deep purple"
+    - scheme: slate            # Modo oscuro por defecto
+      primary: "#0D47A1"       # Azul Profundo
+      accent: "#FFD600"        # Ámbar (CTA / acentos)
       toggle:
         icon: material/brightness-4
         name: "Cambiar a modo claro"
-    - scheme: default    # Modo claro alternativo
-      primary: "indigo"
-      accent: "deep purple"
+
+    - scheme: default          # Modo claro alternativo
+      primary: "#0D47A1"       # Azul Profundo
+      accent: "#FFD600"        # Ámbar (CTA / acentos)
       toggle:
         icon: material/brightness-7
         name: "Cambiar a modo oscuro"
+
   features:
-    - navigation.top     # Navegación en la parte superior
-    - navigation.tabs    # Navegación mediante pestañas
+    - navigation.top
+    - navigation.tabs
 
 markdown_extensions:
   - toc:
-      permalink: True        # Enlaces ancla en cada título
-  - admonition               # Bloques de aviso / info
-  - footnotes                # Notas al pie
-  - tables                   # Soporte extendido de tablas
-  - def_list                 # Listas de definiciones
+      permalink: True
+  - admonition
+  - footnotes
+  - tables
+  - def_list
 
 plugins:
   - search:
-      lang: es               # Buscador interno en español
+      lang: es
 
-docs_dir: docs              # Carpeta donde se ubican los archivos .md
-# site_dir: site            # (opcional) Carpeta de salida del sitio (por defecto "site")
+docs_dir: docs
+# site_dir: site

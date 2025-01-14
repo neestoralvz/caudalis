@@ -1,4 +1,4 @@
-# ELECCIÓN DE NOMBRE
+# Elección de nombre
 
 ## 1. Antecedentes  
 Este documento detalla las opciones finales de nombres para una empresa dedicada a **soluciones integrales en el ámbito del agua potable**, incluyendo los eslóganes seleccionados, las denominaciones sociales sugeridas y una revisión de su disponibilidad legal y cultural. El objetivo es asegurar que la marca proyecte los valores de **pureza, fiabilidad y dinamismo**, alineándose con las necesidades de registro y validación en el mercado.

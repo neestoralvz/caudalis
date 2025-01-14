@@ -1,4 +1,4 @@
-# MISIÓN Y VISIÓN DE LA EMPRESA
+# Misión y Visión
 
 ## 1. Misión
 
